@@ -56,5 +56,3 @@ const addId = people.map((value, index) => {
     return newPerson;
 });
 console.log(addId);
-
-
